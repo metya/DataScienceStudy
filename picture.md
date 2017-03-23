@@ -1,3 +1,3 @@
 ## разнообразные полезные картинки и графики
 
-* ![](/pictures/ML-alg.png)
+ ![](/pictures/ML_alg.png)
