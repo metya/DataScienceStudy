@@ -9,5 +9,5 @@
 * [Всяческие полезные картинки и графики](pictures.md)
 * [вайт пейперы](papers.md) которые полезные или не очень, но все равно делают нас чуточку умнее.
 
-# [Gereral Activity For Now](Gereral Activity For Now.md)
-заголовок тыкабельный
+# Gereral Activity For Now
+[**тыкаем сюда**](Gereral Activity For Now.md)
