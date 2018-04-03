@@ -10,4 +10,4 @@
 * [вайт пейперы](papers.md) которые полезные или не очень, но все равно делают нас чуточку умнее.
 
 # Gereral Activity For Now
-[**тыкаем сюда**](Gereral Activity For Now.md)
+[**тыкаем сюда**](General%20Activity%20For%20Now.md)
