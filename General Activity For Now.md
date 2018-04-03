@@ -43,7 +43,8 @@
 * [Серия статей про ембединги текста](http://ruder.io/word-embeddings-1/)
 * [ImageNet Classification with Deep Convolutional Neural Networks - Colyer](https://blog.acolyer.org/2016/04/20/imagenet-classification-with-deep-convolutional-neural-networks/)
 * [Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition](https://blog.acolyer.org/2016/04/19/context-dependent-pre-trained-deep-neural-networks-for-large-vocabulary-speech-recognition/)
-https://habrahabr.ru/post/352632/ Истинная реализация нейросети с нуля. 
+* https://habrahabr.ru/post/352632/ Истинная реализация нейросети с нуля. 
+* [Functional Programming for Deep Learning](https://www.notion.so/metya/5f25295584414592a3581836625b77d3#d5f53eac3e7146eeba6bf6365449600a)
 -----
 
 
