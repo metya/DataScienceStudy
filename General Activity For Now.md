@@ -11,6 +11,7 @@
 * cs221 
 * Future Learning 
 * [HSE Course (GitHub)](https://github.com/esokolov/ml-course-hse/)
+* [Microsoft Professional Program for Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 
 
 ## Stepic Additional
@@ -45,6 +46,11 @@
 * [Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition](https://blog.acolyer.org/2016/04/19/context-dependent-pre-trained-deep-neural-networks-for-large-vocabulary-speech-recognition/)
 * https://habrahabr.ru/post/352632/ Истинная реализация нейросети с нуля. 
 * [Functional Programming for Deep Learning](https://www.notion.so/metya/5f25295584414592a3581836625b77d3#d5f53eac3e7146eeba6bf6365449600a)
+* Все отсюда! Прекрасный блог про понимание базовых дип лернингов [colah.github.io](http://colah.github.io/archive.html)
+* Например вот это - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [Manning And Le Cun talks about Innate Prior Chomsky](http://www.abigailsee.com/2018/02/21/deep-learning-structure-and-innate-priors.html) 
+* http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
 -----
 
 
@@ -58,7 +64,12 @@
 * [PyData Meetup (TensorFlow Architecture)](https://www.youtube.com/watch?v=aoin1nl_eSA&feature=youtu.be&t=5810) [Materials](https://github.com/yurijvolkov/pydata_examples)
 * [Kaggle Mercedes Benz: предсказание времени тестирования автомобилей ](https://www.youtube.com/watch?v=HT3QpRp2ewA)
 * [Эффективные модели ближайших соседей](https://www.youtube.com/watch?v=UUm4MOyVTnE)
+* [Lisa Feldman: Emotions and brain](https://www.youtube.com/watch?v=h7Mtwds0wW4&feature=youtu.be)
+* [Manning And Le Cun talks about Innate Prior Chomsky](https://youtu.be/fKk9KhGRBdI)
+* [Attention is all you need by Ilya Polosuhin](https://www.youtube.com/watch?v=I0nX4HDmXKc)
+* [Simon says LSTM](https://www.youtube.com/watch?v=wYI7RZz4Rz0)
 
 ## Видео, что я посмотрел 
 
 * [NLP натекин](https://www.youtube.com/watch?v=Ozm0bEi5KaI)
+

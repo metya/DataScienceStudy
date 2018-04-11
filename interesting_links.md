@@ -18,3 +18,6 @@
 * Сайт книги [Over 130 Practical Recipes For Data Analysis and Machine Learning](http://haskelldata.com/) [репа книги]
 (https://github.com/BinRoot/Haskell-Data-Analysis-Cookbook)
 * Кажется главный пакет по хаскель мл (и уже устарел) - (Hlearn)[https://github.com/mikeizbicki/HLearn]
+* Очередной язычок Nim очередной диплернинг [Experimental rewrite of mnielson's deep learning example code in Nim](https://github.com/jfhg/nimdeep)
+* Дичайший диплернинг фреймворк для Nim - [Arraymancer](https://github.com/mratsim/Arraymancer)
+* Все что нужно  и всякие другие штуки в МЛ и ДЛ в Джулии (ванлав кажется язычок) в годном месте на [сайте](https://juliaml.github.io) и их [репа](https://github.com/JuliaML)
