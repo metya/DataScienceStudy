@@ -50,13 +50,30 @@
 * Например вот это - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Manning And Le Cun talks about Innate Prior Chomsky](http://www.abigailsee.com/2018/02/21/deep-learning-structure-and-innate-priors.html) 
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+* [Ассоциативные правила, или пиво с подгузниками](https://habrahabr.ru/company/ods/blog/353502/)
+* [Connection between absract algebra and high school algebra](https://blogs.ams.org/matheducation/2015/12/10/connections-between-abstract-algebra-and-high-school-algebra-a-few-connections-worth-exploring/)
+* [Instance Embedding: Segmentation Without Proposals](https://medium.com/@barvinograd1/instance-embedding-instance-segmentation-without-proposals-31946a7c53e1)
 
+
+## Штуки, что я прочитал
+
+* [Про преобразование фурье](https://habrahabr.ru/post/196374/)
+* [Как предсказывают погоду](https://vas3k.ru/blog/how_to_weather/)
+* [Генерация стихов нейросетями](https://vas3k.ru/blog/394/)
+* [Blockchain]()
+* [Ehtereum](https://vas3k.ru/blog/ethereum/)
+* [Автоэнкодеры в Keras](https://habrahabr.ru/post/331382/)
+* 
 -----
+
+## Штуки, что я написал, перевел
+
+* 
 
 
 # Видео
 
-## Штуки, что я прочитал
+
 
 ## Видео, что мне надо посмотреть
 
@@ -72,4 +89,8 @@
 ## Видео, что я посмотрел 
 
 * [NLP натекин](https://www.youtube.com/watch?v=Ozm0bEi5KaI)
+* [Bias in an Artificial Neural Network explained | How bias impacts training](https://www.youtube.com/watch?v=HetFihsXSys)
+* [Keras init bias](https://www.youtube.com/watch?v=zralyi2Ft20)
+* [Генератор текста цепями маркова](https://tproger.ru/translations/markov-chains/)
+* [Ethereum work like](https://www.youtube.com/watch?v=a-Azm3nEuUI)
 
