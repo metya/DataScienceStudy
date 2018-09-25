@@ -33,9 +33,17 @@
 * [Carnegie Melon Deep Learning Course](http://deeplearning.cs.cmu.edu) 
 
 ## Курсы, что я уже прошел
+* [Летняя Школа. Мастерская Deep Learning](http://letnyayashkola.org/deeplearning/)
+* DataCamp:
+	* [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+	* [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+	* [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+	* [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
 
-## Летняя школа, что я помогал проводить
+
+## Где я участвовал как слушатель или как участник или как организатор. Школы, конференции, семинары
 [Летняя Школа. Мастерская Deep Learning](http://letnyayashkola.org/deeplearning/)
+[Data Fest^5, Москва,28 апреля 2018](http://datafest.ru/5/)
 
 -----
 
@@ -105,6 +113,7 @@
 * [Simple audio classification in keras in R](http://blogs.rstudio.com/tensorflow/posts/2018-06-06-simple-audio-classification-keras/) 
 * [Пицца аля-semi-supervised](https://habr.com/company/ods/blog/422873/)
 * [Определение цвета автомобилей с использованием нейронных сетей и TensorFlow](https://habr.com/company/intel/blog/422689/)
+* [Yes, you should understand backprop. A. Karpaty](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 * 
 * 
 -----
@@ -150,9 +159,11 @@
 * [Illustrated Guide to Recurrent Neural Networks](https://youtu.be/LHXXI4-IEns)
 * [illustrated guide to LSTM's and GRU's](https://www.youtube.com/watch?v=8HyCNIVRbSU)
 * [Visual Rhythm Beat](https://www.youtube.com/watch?v=K3z68mOLbNo&feature=youtu.be)
+* [Deep Learning, Structure and Innate Priors](https://youtu.be/fKk9KhGRBdI)
+* 
 
 
 
 ## Работы, что я прочитал
 
-* 
+* [Deep Learning Based Solar Flare Forecasting Model. I. Results for Line-of-sight Magnetograms et al 2018](http://iopscience.iop.org/article/10.3847/1538-4357/aaae00)
