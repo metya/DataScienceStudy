@@ -1,6 +1,28 @@
-# Курсы
+# Содержание
+<!-- MarkdownTOC uri_encoding="false" autolink="true" autoanchor="false" -->
 
-## Курсы, которые надо пройти
+- [Курсы](#Курсы)
+    - [Курсы, которые надо пройти](#Курсы-которые-надо-пройти)
+    - [Stepic Additional](#stepic-additional)
+    - [Курсы, что я прохожу](#Курсы-что-я-прохожу)
+    - [Курсы, что я уже прошел](#Курсы-что-я-уже-прошел)
+    - [Где я участвовал как слушатель или как участник или как организатор. Школы, конференции, семинары](#Где-я-участвовал-как-слушатель-или-как-участник-или-как-организатор-Школы-конференции-семинары)
+- [Чтение](#Чтение)
+    - [Штуки, что надо прочитать](#Штуки-что-надо-прочитать)
+    - [Штуки, что я прочитал](#Штуки-что-я-прочитал)
+    - [Штуки, что я написал, перевел](#Штуки-что-я-написал-перевел)
+- [Видео](#Видео)
+    - [Видео, что мне надо посмотреть](#Видео-что-мне-надо-посмотреть)
+    - [Видео, что я посмотрел](#Видео-что-я-посмотрел)
+- [Наука](#Наука)
+    - [Работы, что я прочитал](#Работы-что-я-прочитал)
+
+<!-- /MarkdownTOC -->
+
+-------
+# Курсы 
+
+## Курсы, которые надо пройти 
 
 * [Deep Learning Google](https://eu.udacity.com/course/deep-learning--ud730)
 * [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/)
@@ -20,6 +42,7 @@
 
 
 ## Stepic Additional
+
 * [Examination](https://stepik.org/lesson/68008/step/1?unit=44971)
 * [Adaptive tasks](https://stepik.org/lesson/43732/step/1?adaptive=true&unit=22777)
 
@@ -83,8 +106,6 @@
 * [Boosting Part 3](https://shirinsplayground.netlify.com/2018/07/explaining_ml_models_code_text_lime/)
 * [Recent Advances for a Better Understanding of Deep Learning − Part I](https://towardsdatascience.com/recent-advances-for-a-better-understanding-of-deep-learning-part-i-5ce34d1cc914)
 * [What is a Generative Adversarial Network? ](http://hunterheidenreich.com/blog/what-is-a-gan/)
-
-
 * [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 
 ## Штуки, что я прочитал
@@ -115,8 +136,8 @@
 * [Определение цвета автомобилей с использованием нейронных сетей и TensorFlow](https://habr.com/company/intel/blog/422689/)
 * [Yes, you should understand backprop. A. Karpaty](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 * 
-* 
------
+
+---
 
 ## Штуки, что я написал, перевел
 
@@ -124,7 +145,7 @@
 * [Из спутниковых снимков в графы (cоревнование SpaceNet Road Detector) — попадание топ-10 и код ](https://habrahabr.ru/post/349068/)
 * [Соревнование Pri-matrix Factorization на DrivenData с 1ТБ данных — как мы заняли 3 место](https://habrahabr.ru/post/348540/)
 
-
+------
 # Видео
 
 
@@ -162,8 +183,10 @@
 * [Deep Learning, Structure and Innate Priors](https://youtu.be/fKk9KhGRBdI)
 * 
 
-
-
+------
+# Наука
 ## Работы, что я прочитал
 
 * [Deep Learning Based Solar Flare Forecasting Model. I. Results for Line-of-sight Magnetograms et al 2018](http://iopscience.iop.org/article/10.3847/1538-4357/aaae00)
+
+
