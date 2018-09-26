@@ -1,4 +1,4 @@
-# My Activity to study and do Data Science
+# My activity to study and do Data Science
 То что я сейчас прохожу, читаю, прочитал, посмотрел, сделал и вообще мой личный списочек всего с этим связанного
 
 # Содержание
@@ -118,6 +118,9 @@
 * [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 * [Rules of Machine Learning: Best Practices for ML Engineering (24 страницы)](https://drive.google.com/file/d/0B1WwFMq7KtPudkJMNUc2N1FOMzQ/view)
 * [A Few Useful Things to Know about Machine Learning (9 страниц)](https://drive.google.com/file/d/0B1WwFMq7KtPuMDA5QU01Tm1TSmM/view)
+* [Machine Learning’s ‘Amazing’ Ability to Predict Chaos](https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/)
+* [Markov Chains for Dummies](https://arxiv.org/pdf/1808.08490.pdf)
+* [Deep Learning for NLP: An Overview of Recent Trends. 2018](https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d)
 
 ## Штуки, что я прочитал
 
@@ -146,7 +149,16 @@
 * [Пицца аля-semi-supervised](https://habr.com/company/ods/blog/422873/)
 * [Определение цвета автомобилей с использованием нейронных сетей и TensorFlow](https://habr.com/company/intel/blog/422689/)
 * [Yes, you should understand backprop. A. Karpaty](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
-* 
+* [https://arxiv.org/pdf/1808.06492.pdf](https://arxiv.org/pdf/1808.06492.pdf)
+* [Pandas Tips and Tricks](https://towardsdatascience.com/pandas-tips-and-tricks-33bcc8a40bb9)
+* [Handling cat Pandas](https://www.datacamp.com/community/tutorials/categorical-data)
+* [Using categorical data in machine learning with python Part 1](https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-66041f734512)
+* [Guide to Encoding Categorical Data](http://pbpython.com/categorical-encoding.html)
+* [BEYOND ONE-HOT: AN EXPLORATION OF CATEGORICAL VARIABLES](http://www.willmcginnis.com/2015/11/29/beyond-one-hot-an-exploration-of-categorical-variables/)
+* [Using categorical data in machine learning with python: from dummy variables to Deep category embedding and Cat2vec -Part 2](https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-42fd0a43b009)
+* [Python Pandas Tricks](https://realpython.com/python-pandas-tricks/)
+* [My New Workflow with Julia 1.0](https://medium.com/@Jernfrost/my-new-workflow-with-julia-1-0-99711103d97c)
+* [autokeras kill google automl](https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319)
 
 ---
 
@@ -233,6 +245,11 @@
 * [Awesome R](https://github.com/qinwf/awesome-R)
 * [A curated list of data science blogs](https://github.com/rushter/data-science-blogs)
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+* [A paper list of object detection using deep learning](https://github.com/hoya012/deep_learning_object_detection)
+* [Scaling Uber’s Customer Support Ticket Assistant (COTA) System with Deep Learning.](https://eng.uber.com/cota-v2/)
+* [Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+* [DeepLearningAnimePapers](https://github.com/deeppomf/DeepLearningAnimePapers) - A list of papers and other resources on deep learning with anime style images.
+* 
 
 ----
 ## Necessary and Useful Tools
@@ -248,11 +265,16 @@
 * [auto-sklearn](http://automl.github.io/auto-sklearn/)
 * [Research2vec](https://github.com/Santosh-Gupta/Research2Vec) - моделька для поиска похожих рисерч пейперов, можно юзать как рекомендашку
 * [A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.](https://github.com/EpistasisLab/tpot)
+* [Automated machine learning for structured data.](https://transmogrif.ai) - AutoML library for structured data written in Scala that runs on top of Apache Spark from SaleForce
+* [Futuretools: An open source python framework for automated feature engineering](https://www.featuretools.com)
+* [Entity Embedding for Categorical Data](https://github.com/entron/entity-embedding-rossmann)
+
 
 ----
 ## Datasets
 * [Some New Interesting Deep Learning Datasets for Data Scientists](http://blog.paralleldots.com/data-scientist/new-deep-learning-datasets-data-scientists/) - Список датасетов интересный
 * [Cool Datasets](http://cooldatasets.com/) - сайт с датасетами клевыми
 * [Целый сабреддит на реддите с датасетами и обсуждениями](https://www.reddit.com/r/datasets/)
+* [Kaggle Recipe Ingredients Dataset](https://www.kaggle.com/kaggle/recipe-ingredients-dataset)
 
 
