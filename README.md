@@ -2,7 +2,7 @@
 То что я сейчас прохожу, читаю, прочитал, посмотрел, сделал и вообще мой личный списочек всего с этим связанного
 
 # Содержание
-<!-- MarkdownTOC bullets="-,+,*" uri_encoding="false" autolink="true" autoanchor="false" -->
+<!-- MarkdownTOC bullets="-,+,*" uri_encoding="false" autolink="true" autoanchor="true" -->
 
 - [Курсы и активности](#Курсы-и-активности)
     + [Курсы, которые надо пройти](#Курсы-которые-надо-пройти)
@@ -28,8 +28,10 @@
 <!-- /MarkdownTOC -->
 
 -------
+<a id="Курсы-и-активности"></a>
 # Курсы и активности
 
+<a id="Курсы-которые-надо-пройти"></a>
 ## Курсы, которые надо пройти 
 
 * [Deep Learning Google](https://eu.udacity.com/course/deep-learning--ud730)
@@ -49,12 +51,14 @@
 * [Stepic Julia](https://stepik.org/course/2407)
 
 
+<a id="stepic-additional"></a>
 ## Stepic Additional
 
 * [Examination](https://stepik.org/lesson/68008/step/1?unit=44971)
 * [Adaptive tasks](https://stepik.org/lesson/43732/step/1?adaptive=true&unit=22777)
 
 
+<a id="Курсы-что-я-прохожу"></a>
 ## Курсы, что я прохожу
 
 * ODS ML Course Open
@@ -63,6 +67,7 @@
 * cs231n (DeepLearning)
 * [Carnegie Melon Deep Learning Course](http://deeplearning.cs.cmu.edu) 
 
+<a id="Курсы-что-я-уже-прошел"></a>
 ## Курсы, что я уже прошел
 * [Летняя Школа. Мастерская Deep Learning](http://letnyayashkola.org/deeplearning/)
 * DataCamp:
@@ -72,6 +77,7 @@
     * [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
 
 
+<a id="Где-я-участвовал-как-слушатель-или-как-участник-или-как-организатор-Школы-конференции-семинары"></a>
 ## Где я участвовал как слушатель или как участник или как организатор. Школы, конференции, семинары
 
 * [Летняя Школа. Мастерская Deep Learning](http://letnyayashkola.org/deeplearning/)
@@ -81,8 +87,10 @@
 
 
 
+<a id="Чтение-и-писанина"></a>
 # Чтение и писанина
 
+<a id="Штуки-что-надо-прочитать"></a>
 ## Штуки, что надо прочитать 
 
 * [How Numba and Cython speed up Python code](https://rushter.com/blog/numba-cython-python-optimization/)
@@ -122,6 +130,7 @@
 * [Markov Chains for Dummies](https://arxiv.org/pdf/1808.08490.pdf)
 * [Deep Learning for NLP: An Overview of Recent Trends. 2018](https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d)
 
+<a id="Штуки-что-я-прочитал"></a>
 ## Штуки, что я прочитал
 
 * [Про преобразование фурье](https://habrahabr.ru/post/196374/)
@@ -162,6 +171,7 @@
 
 ---
 
+<a id="Штуки-что-я-написал-перевел"></a>
 ## Штуки, что я написал, перевел
 
 * [Применяем Deep Watershed Transform в соревновании Kaggle Data Science Bowl 2018](https://habrahabr.ru/post/354040/)
@@ -169,8 +179,10 @@
 * [Соревнование Pri-matrix Factorization на DrivenData с 1ТБ данных — как мы заняли 3 место](https://habrahabr.ru/post/348540/)
 
 ------
+<a id="Видео"></a>
 # Видео
 
+<a id="Видео-что-мне-надо-посмотреть"></a>
 ## Видео, что мне надо посмотреть
 
 * [Essense of Linear Azlgebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -183,6 +195,7 @@
 * [Simon says LSTM](https://www.youtube.com/watch?v=wYI7RZz4Rz0)
 * [Интервью с Виктором Рогуленко](http://youtube.com/watch?v=ymSqI0hVj-Q)
 
+<a id="Видео-что-я-посмотрел"></a>
 ## Видео, что я посмотрел 
 
 * [NLP натекин](https://www.youtube.com/watch?v=Ozm0bEi5KaI)
@@ -206,21 +219,26 @@
 * 
 
 -----
+<a id="Подкасты-что-я-послушал"></a>
 ## Подкасты, что я послушал
 * [Deep Learning и Artificial Intelligence — Episode 0114](http://devzen.ru/episode-0114/) 
 * [AI и TensorFlow — Episode 0122](http://devzen.ru/episode-0122/)
 * [DataDog и Cloud Spanner](http://devzen.ru/episode-0130/)
 
 ------
+<a id="Наука-работа-и-проекты"></a>
 # Наука, работа и проекты
 
+<a id="Научные-статьи-что-я-прочитал"></a>
 ## Научные статьи, что я прочитал
 * [Deep Learning Based Solar Flare Forecasting Model. I. Results for Line-of-sight Magnetograms et al 2018](http://iopscience.iop.org/article/10.3847/1538-4357/aaae00)
 
 ------
 
+<a id="my-local-not-so-awesome-list"></a>
 # My Local Not So Awesome List
 
+<a id="interested-links"></a>
 ## Interested Links
 * слайды доклада по рекомендационной системе нетфликса
 [Recommender Systems (Machine Learning Summer School 2014 @ CMU)](http://www.slideshare.net/xamat/recommender-systems-machine-learning-summer-school-2014-cmu)
@@ -252,6 +270,7 @@
 * 
 
 ----
+<a id="necessary-and-useful-tools"></a>
 ## Necessary and Useful Tools
 * [List of scappers](https://github.com/cassidoo/scrapers) - Огромный список программ скрейперов помогающих извлекать данные из веб-сайтов. Это инструменты на всех языках программирования и несложные в освоении
 * [Обработка текста с командной строки](https://github.com/dbohdan/structured-text-tools) -  Большая подборка инструментов позволяющих быстро обрабатывать CSV, JSON, XML и другие структурированные документы 
@@ -271,6 +290,7 @@
 
 
 ----
+<a id="datasets"></a>
 ## Datasets
 * [Some New Interesting Deep Learning Datasets for Data Scientists](http://blog.paralleldots.com/data-scientist/new-deep-learning-datasets-data-scientists/) - Список датасетов интересный
 * [Cool Datasets](http://cooldatasets.com/) - сайт с датасетами клевыми
