@@ -129,6 +129,12 @@
 * [Machine Learning’s ‘Amazing’ Ability to Predict Chaos](https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/)
 * [Markov Chains for Dummies](https://arxiv.org/pdf/1808.08490.pdf)
 * [Deep Learning for NLP: An Overview of Recent Trends. 2018](https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d)
+* [habr - Введение в состязательные сети](https://habr.com/company/otus/blog/358946/)
+* [habr -Kaggle: Amazon from Space — трюки и хаки при обучении нейросетей](https://habr.com/company/ods/blog/413667/)
+* [habr - kaggle: IEEE's Camera Model Identification](https://habr.com/company/ods/blog/415571/)
+* [harb Офлайн А/Б тестирование в ритейле](https://habr.com/company/ods/blog/416101/)
+* [habr 3-е место в отборочном этапе DataScienceGame 2018](https://habr.com/company/ods/blog/416817/)
+* [RL habr Как казаки retro контест решали](https://habr.com/company/ods/blog/421585/)
 
 <a id="Штуки-что-я-прочитал"></a>
 ## Штуки, что я прочитал
@@ -168,6 +174,10 @@
 * [Python Pandas Tricks](https://realpython.com/python-pandas-tricks/)
 * [My New Workflow with Julia 1.0](https://medium.com/@Jernfrost/my-new-workflow-with-julia-1-0-99711103d97c)
 * [autokeras kill google automl](https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319)
+* [Serverless tensorflow на AWS Lambda](https://habr.com/company/ods/blog/343538/)
+* [Levenberg-Marquardt Optimization (Part 1)](https://medium.com/@sarvagya.vaish/levenberg-marquardt-optimization-part-1-981f5777b1d7)
+* [Методы оптимизации нейронных сетей](https://habr.com/post/318970/)
+
 
 ---
 
@@ -232,6 +242,7 @@
 <a id="Научные-статьи-что-я-прочитал"></a>
 ## Научные статьи, что я прочитал
 * [Deep Learning Based Solar Flare Forecasting Model. I. Results for Line-of-sight Magnetograms et al 2018](http://iopscience.iop.org/article/10.3847/1538-4357/aaae00)
+* (https://arxiv.org/pdf/1809.09244.pdf)
 
 ------
 
