@@ -135,6 +135,12 @@
 * [harb Офлайн А/Б тестирование в ритейле](https://habr.com/company/ods/blog/416101/)
 * [habr 3-е место в отборочном этапе DataScienceGame 2018](https://habr.com/company/ods/blog/416817/)
 * [RL habr Как казаки retro контест решали](https://habr.com/company/ods/blog/421585/)
+* [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+* [The Annotated Encoder Decoder with Attention](https://bastings.github.io/annotated_encoder_decoder/)
+* [How to train your ResNet5, search optimal hyperparameters](https://www.myrtle.ai/2018/09/24/how-to-train-your-resnet-5/)
+* [Transfer Learning in NLP (nlp-imagenet-ruder)](http://ruder.io/nlp-imagenet/)
+* [Differentiable Image Parameterizations](https://distill.pub/2018/differentiable-parameterizations/)
+* [Every fucking post here](https://arogozhnikov.github.io)
 
 <a id="Штуки-что-я-прочитал"></a>
 ## Штуки, что я прочитал
@@ -177,6 +183,16 @@
 * [Serverless tensorflow на AWS Lambda](https://habr.com/company/ods/blog/343538/)
 * [Levenberg-Marquardt Optimization (Part 1)](https://medium.com/@sarvagya.vaish/levenberg-marquardt-optimization-part-1-981f5777b1d7)
 * [Методы оптимизации нейронных сетей](https://habr.com/post/318970/)
+* [DeepHD](https://habr.com/company/yandex/blog/422561/)
+* [Kaggle Mercedes и кросс-валидация](https://habr.com/company/ods/blog/336168/)
+* [Introduction to Chainer Presentation](https://www.slideshare.net/pfi/introduction-to-chainer-11-may2018-96768990)
+* [Визуализация сверточных слоев с помощью Pytorch](https://habr.com/ru/post/436838/)
+* [Running Jupyter Lab as a Desktop Application](http://christopherroach.com/articles/jupyterlab-desktop-app/)
+* [AlphaStar — новая система искусственного интеллекта для StarCraft II от DeepMind (полный перевод)](https://habr.com/ru/post/437486/)
+* [https://habr.com/ru/post/437796/](https://habr.com/ru/post/437796/)
+* [Как мы создали рекомендательный сервис по подбору одежды на нейронных сетях](https://habr.com/ru/post/438542/)
+* [IPython interactive control](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)
+* 
 
 
 ---
@@ -204,6 +220,7 @@
 * [Attention is all you need by Ilya Polosuhin](https://www.youtube.com/watch?v=I0nX4HDmXKc)
 * [Simon says LSTM](https://www.youtube.com/watch?v=wYI7RZz4Rz0)
 * [Интервью с Виктором Рогуленко](http://youtube.com/watch?v=ymSqI0hVj-Q)
+* [Карты кохонена](https://www.youtube.com/watch?v=5FiH88Rs8Hc&list=PLDCR37g8W9nFO5bPnL91WF28V5L9F-lJL&index=5)
 
 <a id="Видео-что-я-посмотрел"></a>
 ## Видео, что я посмотрел 
@@ -242,7 +259,11 @@
 <a id="Научные-статьи-что-я-прочитал"></a>
 ## Научные статьи, что я прочитал
 * [Deep Learning Based Solar Flare Forecasting Model. I. Results for Line-of-sight Magnetograms et al 2018](http://iopscience.iop.org/article/10.3847/1538-4357/aaae00)
-* (https://arxiv.org/pdf/1809.09244.pdf)
+* [No Multiplication? No Floating Point? No Problem! Training Networks for Efficient Inference](https://arxiv.org/abs/1809.09244)
+* [Identification of photospheric activity features from SOHO/MDI data using the ASAP tool](https://arxiv.org/abs/1505.02036)
+* Identification of photospheric activity features from SOHO/MDI data using the ASAP tool Sol. Phys., 248, 277–296, 2008. DOI: 10.1007/s11207-007-9094-3
+* Colak, T., and R. Qahwaji. Automated Solar Activity Prediction: A hybrid computer platform using machine learning and solar imaging for automated prediction of solar flares. Space Weather, 7, S06001, 2009. DOI: 10.1029/2008SW000401
+* [Byte-Pair-Encoding et al 2015 senrich](https://arxiv.org/pdf/1508.07909.pdf)
 
 ------
 
@@ -278,7 +299,8 @@
 * [Scaling Uber’s Customer Support Ticket Assistant (COTA) System with Deep Learning.](https://eng.uber.com/cota-v2/)
 * [Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 * [DeepLearningAnimePapers](https://github.com/deeppomf/DeepLearningAnimePapers) - A list of papers and other resources on deep learning with anime style images.
-* 
+* [**A list of all papers and resoureces on Semantic Segmentation**](https://github.com/tangzhenyu/SemanticSegmentation_DL)
+* [Deep Learning in Medical Imaging and Medical Image Analysis](https://github.com/shawnyuen/DeepLearningInMedicalImagingAndMedicalImageAnalysis)
 
 ----
 <a id="necessary-and-useful-tools"></a>
