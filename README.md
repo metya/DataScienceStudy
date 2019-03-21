@@ -5,10 +5,10 @@
 <!-- MarkdownTOC bullets="-,+,*" uri_encoding="false" autolink="true" autoanchor="true" -->
 
 - [Курсы и активности](#Курсы-и-активности)
+    + [Курсы, что я уже прошел](#Курсы-что-я-уже-прошел)
+    + [Курсы, что я прохожу](#Курсы-что-я-прохожу)
     + [Курсы, которые надо пройти](#Курсы-которые-надо-пройти)
     + [Stepic Additional](#stepic-additional)
-    + [Курсы, что я прохожу](#Курсы-что-я-прохожу)
-    + [Курсы, что я уже прошел](#Курсы-что-я-уже-прошел)
     + [Где я участвовал как слушатель или как участник или как организатор. Школы, конференции, семинары](#Где-я-участвовал-как-слушатель-или-как-участник-или-как-организатор-Школы-конференции-семинары)
     + [Хакатоны](#Хакатоны)
 - [Чтение и писанина](#Чтение-и-писанина)
@@ -31,6 +31,26 @@
 -------
 <a id="Курсы-и-активности"></a>
 # Курсы и активности
+
+<a id="Курсы-что-я-уже-прошел"></a>
+## Курсы, что я уже прошел
+* [Летняя Школа. Мастерская Deep Learning](http://letnyayashkola.org/deeplearning/)
+* DataCamp:
+    * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+    * [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+    * [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+    * [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
+
+<a id="Курсы-что-я-прохожу"></a>
+## Курсы, что я прохожу
+
+* [Deep Learning на пальцах!](dlcourse.ai)
+* ODS ML Course Open
+* Deep NLP MIPT
+* cs224n (NLP) 
+* cs231n (DeepLearning)
+* [Carnegie Melon Deep Learning Course](http://deeplearning.cs.cmu.edu) 
+
 
 <a id="Курсы-которые-надо-пройти"></a>
 ## Курсы, которые надо пройти 
@@ -58,24 +78,6 @@
 * [Examination](https://stepik.org/lesson/68008/step/1?unit=44971)
 * [Adaptive tasks](https://stepik.org/lesson/43732/step/1?adaptive=true&unit=22777)
 
-
-<a id="Курсы-что-я-прохожу"></a>
-## Курсы, что я прохожу
-
-* ODS ML Course Open
-* Deep NLP MIPT
-* cs224n (NLP) 
-* cs231n (DeepLearning)
-* [Carnegie Melon Deep Learning Course](http://deeplearning.cs.cmu.edu) 
-
-<a id="Курсы-что-я-уже-прошел"></a>
-## Курсы, что я уже прошел
-* [Летняя Школа. Мастерская Deep Learning](http://letnyayashkola.org/deeplearning/)
-* DataCamp:
-    * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-    * [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
-    * [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
-    * [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
 
 
 <a id="Где-я-участвовал-как-слушатель-или-как-участник-или-как-организатор-Школы-конференции-семинары"></a>
