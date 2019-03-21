@@ -24,6 +24,7 @@
     + [Interested Links](#interested-links)
     + [Necessary and Useful Tools](#necessary-and-useful-tools)
     + [Datasets](#datasets)
+    + [Хакатоны](#Хакатоны)
 
 <!-- /MarkdownTOC -->
 
@@ -320,6 +321,7 @@
 * [Automated machine learning for structured data.](https://transmogrif.ai) - AutoML library for structured data written in Scala that runs on top of Apache Spark from SaleForce
 * [Futuretools: An open source python framework for automated feature engineering](https://www.featuretools.com)
 * [Entity Embedding for Categorical Data](https://github.com/entron/entity-embedding-rossmann)
+* [Version Control System for Data Science!](https://dvc.org)
 
 
 ----
@@ -330,4 +332,7 @@
 * [Целый сабреддит на реддите с датасетами и обсуждениями](https://www.reddit.com/r/datasets/)
 * [Kaggle Recipe Ingredients Dataset](https://www.kaggle.com/kaggle/recipe-ingredients-dataset)
 
-
+<a id="Хакатоны"></a>
+## Хакатоны
+* [4spb: Машинное обучение для гражданских проектов](https://opendata.te-st.ru/) ([являюсь победителем](https://te-st.ru/reports/4spb-results/) 
+* [AI Hack Spb 2017](https://science-guide.timepad.ru/event/440300/), [vk](https://vk.com/aihackathon?w=address-139088047)
