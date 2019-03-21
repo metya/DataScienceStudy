@@ -10,6 +10,7 @@
     + [Курсы, что я прохожу](#Курсы-что-я-прохожу)
     + [Курсы, что я уже прошел](#Курсы-что-я-уже-прошел)
     + [Где я участвовал как слушатель или как участник или как организатор. Школы, конференции, семинары](#Где-я-участвовал-как-слушатель-или-как-участник-или-как-организатор-Школы-конференции-семинары)
+    + [Хакатоны](#Хакатоны)
 - [Чтение и писанина](#Чтение-и-писанина)
     + [Штуки, что надо прочитать](#Штуки-что-надо-прочитать)
     + [Штуки, что я прочитал](#Штуки-что-я-прочитал)
@@ -24,7 +25,6 @@
     + [Interested Links](#interested-links)
     + [Necessary and Useful Tools](#necessary-and-useful-tools)
     + [Datasets](#datasets)
-    + [Хакатоны](#Хакатоны)
 
 <!-- /MarkdownTOC -->
 
@@ -83,6 +83,11 @@
 
 * [Летняя Школа. Мастерская Deep Learning](http://letnyayashkola.org/deeplearning/)
 * [Data Fest^5, Москва,28 апреля 2018](http://datafest.ru/5/)
+
+<a id="Хакатоны"></a>
+## Хакатоны
+* [4spb: Машинное обучение для гражданских проектов](https://opendata.te-st.ru/) ([являюсь победителем](https://te-st.ru/reports/4spb-results/) 
+* [AI Hack Spb 2017](https://science-guide.timepad.ru/event/440300/), [vk](https://vk.com/aihackathon?w=address-139088047)
 
 -----
 
@@ -332,7 +337,4 @@
 * [Целый сабреддит на реддите с датасетами и обсуждениями](https://www.reddit.com/r/datasets/)
 * [Kaggle Recipe Ingredients Dataset](https://www.kaggle.com/kaggle/recipe-ingredients-dataset)
 
-<a id="Хакатоны"></a>
-## Хакатоны
-* [4spb: Машинное обучение для гражданских проектов](https://opendata.te-st.ru/) ([являюсь победителем](https://te-st.ru/reports/4spb-results/) 
-* [AI Hack Spb 2017](https://science-guide.timepad.ru/event/440300/), [vk](https://vk.com/aihackathon?w=address-139088047)
+
