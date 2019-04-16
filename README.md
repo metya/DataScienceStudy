@@ -1,6 +1,9 @@
 # My activity to study and do Data Science
 То что я сейчас прохожу, читаю, прочитал, посмотрел, сделал и вообще мой личный списочек всего с этим связанного
 
+_Надо из этого сделать вот это https://wiki.nikitavoloboev.xyz/_
+
+
 # Содержание
 <!-- MarkdownTOC bullets="-,+,*" uri_encoding="false" autolink="true" autoanchor="true" -->
 
@@ -40,6 +43,10 @@
     * [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
     * [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
     * [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
+* Stepic:
+    * Теорвер
+    * Матстат
+    * Дискретка
 
 <a id="Курсы-что-я-прохожу"></a>
 ## Курсы, что я прохожу
@@ -280,6 +287,8 @@
 
 <a id="interested-links"></a>
 ## Interested Links
+
+* Отличный туториал модулу датасет в торче [PyTorch Custom Dataset Examples](https://github.com/utkuozbulak/pytorch-custom-dataset-examples)
 * слайды доклада по рекомендационной системе нетфликса
 [Recommender Systems (Machine Learning Summer School 2014 @ CMU)](http://www.slideshare.net/xamat/recommender-systems-machine-learning-summer-school-2014-cmu)
 * [An Interactive Tutorial on Numerical Optimization](http://www.benfrederickson.com/numerical-optimization/)
