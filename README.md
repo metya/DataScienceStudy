@@ -206,6 +206,7 @@ _Надо из этого сделать вот это https://wiki.nikitavolobo
 * [https://habr.com/ru/post/437796/](https://habr.com/ru/post/437796/)
 * [Как мы создали рекомендательный сервис по подбору одежды на нейронных сетях](https://habr.com/ru/post/438542/)
 * [IPython interactive control](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)
+* [Чек лист лист для отладки нейронной сети](https://proglib.io/p/networks-debugging/) 
 * [Approach pretended deep learning models with caution](https://medium.com/comet-ml/approach-pre-trained-deep-learning-models-with-caution-9f0ff739010c)
 * 
 
