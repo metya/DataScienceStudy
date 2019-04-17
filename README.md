@@ -163,7 +163,6 @@ _Надо из этого сделать вот это https://wiki.nikitavolobo
 * [Про преобразование фурье](https://habrahabr.ru/post/196374/)
 * [Как предсказывают погоду](https://vas3k.ru/blog/how_to_weather/)
 * [Генерация стихов нейросетями](https://vas3k.ru/blog/394/)
-* [Blockchain]()
 * [Ehtereum](https://vas3k.ru/blog/ethereum/)
 * [Автоэнкодеры в Keras](https://habrahabr.ru/post/331382/)
 * [Разброс и смещение Дяконова](https://alexanderdyakonov.wordpress.com/2018/04/25/%D1%81%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5-bias-%D0%B8-%D1%80%D0%B0%D0%B7%D0%B1%D1%80%D0%BE%D1%81-variance-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82/)
@@ -207,6 +206,7 @@ _Надо из этого сделать вот это https://wiki.nikitavolobo
 * [https://habr.com/ru/post/437796/](https://habr.com/ru/post/437796/)
 * [Как мы создали рекомендательный сервис по подбору одежды на нейронных сетях](https://habr.com/ru/post/438542/)
 * [IPython interactive control](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)
+* [Approach pretended deep learning models with caution](https://medium.com/comet-ml/approach-pre-trained-deep-learning-models-with-caution-9f0ff739010c)
 * 
 
 
@@ -347,5 +347,3 @@ _Надо из этого сделать вот это https://wiki.nikitavolobo
 * [Cool Datasets](http://cooldatasets.com/) - сайт с датасетами клевыми
 * [Целый сабреддит на реддите с датасетами и обсуждениями](https://www.reddit.com/r/datasets/)
 * [Kaggle Recipe Ingredients Dataset](https://www.kaggle.com/kaggle/recipe-ingredients-dataset)
-
-
