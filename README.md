@@ -119,8 +119,6 @@ _Надо из этого сделать вот это https://wiki.nikitavolobo
 * [Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition](https://blog.acolyer.org/2016/04/19/context-dependent-pre-trained-deep-neural-networks-for-large-vocabulary-speech-recognition/)
 * [Истинная реализация нейросети с нуля. Часть 2](https://habrahabr.ru/post/352632/) 
 * [Functional Programming for Deep Learning](https://www.notion.so/metya/5f25295584414592a3581836625b77d3#d5f53eac3e7146eeba6bf6365449600a)
-* Все отсюда! Прекрасный блог про понимание базовых дип лернингов [colah.github.io](http://colah.github.io/archive.html)
-* Например вот это - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Manning And Le Cun talks about Innate Prior Chomsky](http://www.abigailsee.com/2018/02/21/deep-learning-structure-and-innate-priors.html) 
 * [The Unreasonable Effectiveness of Recurrent Neural Networks (Карпатый)](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Ассоциативные правила, или пиво с подгузниками](https://habrahabr.ru/company/ods/blog/353502/)
@@ -208,7 +206,8 @@ _Надо из этого сделать вот это https://wiki.nikitavolobo
 * [IPython interactive control](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)
 * [Чек лист лист для отладки нейронной сети](https://proglib.io/p/networks-debugging/) 
 * [Approach pretended deep learning models with caution](https://medium.com/comet-ml/approach-pre-trained-deep-learning-models-with-caution-9f0ff739010c)
-* 
+* [How to pick the best learning rate for your machine learning project](https://medium.com/octavian-ai/which-optimizer-and-learning-rate-should-i-use-for-deep-learning-5acb418f9b2)
+* [Understanding LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 
 ---
@@ -259,7 +258,10 @@ _Надо из этого сделать вот это https://wiki.nikitavolobo
 * [Visual Rhythm Beat](https://www.youtube.com/watch?v=K3z68mOLbNo&feature=youtu.be)
 * [Deep Learning, Structure and Innate Priors](https://youtu.be/fKk9KhGRBdI)
 * [чатботы на дваче с разными алгами внутри](https://youtu.be/1LcdA0Y7IEk)
-* 
+* [Методы для интерпретации черной коробки](https://youtu.be/viCPYYWywkg)
+* [Объяснение предсказаний нейросетейю Grad-CAM](https://youtu.be/cXp9KgkTQhQ)
+* [Reinforcment Learning as a Probalistic Inference](https://www.youtube.com/watch?v=sEBPBaFJr-Y&feature=youtu.be)
+* [Инструменты разметки CV - годный обзор](https://youtu.be/LfoKO0ugwPk)
 
 -----
 <a id="Подкасты-что-я-послушал"></a>
@@ -288,8 +290,10 @@ _Надо из этого сделать вот это https://wiki.nikitavolobo
 
 <a id="interested-links"></a>
 ## Interested Links
-
+* Как сделать тензорбоард для пайторча в колабе. Полезно! [How to use Tensorboard with PyTorch in Google Colab](https://medium.com/looka-engineering/how-to-use-tensorboard-with-pytorch-in-google-colab-1f76a938bc34)
+* Крутая шутка про лэндскейпы функций потерь у разных архитектур сетей! [Visualizing the Loss Landscape of Neural Nets](https://www.cs.umd.edu/~tomg/projects/landscapes/) и [интерактивная часть](http://www.telesens.co/loss-landscape-viz/viewer.html)
 * Отличный туториал модулу датасет в торче [PyTorch Custom Dataset Examples](https://github.com/utkuozbulak/pytorch-custom-dataset-examples)
+* Отличный каггл кернел туториал по обработке датасетов [Data preparetion. Spet by step](https://www.kaggle.com/leighplt/pytorch-tutorial-dataset-data-preparetion-stage/notebook)
 * слайды доклада по рекомендационной системе нетфликса
 [Recommender Systems (Machine Learning Summer School 2014 @ CMU)](http://www.slideshare.net/xamat/recommender-systems-machine-learning-summer-school-2014-cmu)
 * [An Interactive Tutorial on Numerical Optimization](http://www.benfrederickson.com/numerical-optimization/)
